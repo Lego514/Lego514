@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lego514
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Pattern Recognition
 
 <!---
 - 💞️ I’m looking to collaborate on ...
