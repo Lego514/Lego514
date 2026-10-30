@@ -6,6 +6,8 @@ I build tools for interview preparation, collaborative visualization, and data w
 
 Seeking backend and full-stack software engineering opportunities in **NYC and New Jersey**. Also open to **Philadelphia and Delaware**.
 
+Authorized to work in the United States on F-1 OPT, and eligible for the 24-month STEM extension.
+
 [LinkedIn](https://www.linkedin.com/in/legoli/) · [Try LeetCode Coach](https://leetcode-coach-f6q7.onrender.com) · [Try DSA Whiteboard](https://lego514.github.io/dsa-whiteboard/)
 
 ## Selected projects
