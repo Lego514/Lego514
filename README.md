@@ -4,7 +4,7 @@
 
 I build tools for interview preparation, collaborative visualization, and data workflows. My work spans Java/Spring Boot services, React/TypeScript applications, and Python/SQL analysis.
 
-Seeking backend and full-stack software engineering opportunities in **NYC and New Jersey**. Also open to **Philadelphia and Delaware**.
+Seeking backend and full-stack software engineering opportunities in **NYC and New Jersey**. Also open to relocating anywhere in U.S.
 
 Authorized to work in the United States on F-1 OPT, and eligible for the 24-month STEM extension.
 
